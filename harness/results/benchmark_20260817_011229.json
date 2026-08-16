@@ -1,0 +1,38 @@
+{
+  "timestamp": "20260817_011229",
+  "summary": {
+    "openai/gpt-5.6-luna": {
+      "total_runs": 1,
+      "avg_score": -69659.0,
+      "median_score": -69659,
+      "min_score": -69659,
+      "max_score": -69659,
+      "win_rate": 0.0,
+      "survival_rate": 100.0,
+      "avg_health": 84.0,
+      "avg_fame": 90.0,
+      "avg_debt": 69869.0,
+      "avg_days": 40.0,
+      "avg_turns": 77.0
+    }
+  },
+  "runs": {
+    "openai/gpt-5.6-luna": [
+      {
+        "model": "openai/gpt-5.6-luna",
+        "seed": 122604,
+        "final_score": -69659,
+        "cash": 210,
+        "bank": 0,
+        "debt": 69869,
+        "health": 84,
+        "fame": 90,
+        "days_used": 40,
+        "warehouse_capacity": 100,
+        "cause": "bankrupt",
+        "turns": 77,
+        "score_submitted": false
+      }
+    ]
+  }
+}
