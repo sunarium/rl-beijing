@@ -1,0 +1,19 @@
+{
+  "no-files-without-scenarios": "on",
+  "no-unnamed-features": "on",
+  "no-unnamed-scenarios": "on",
+  "no-duplicate-feature-names": "on",
+  "no-duplicate-scenario-names": "off",
+  "no-partially-filled-in-table": "on",
+  "no-trailing-spaces": "on",
+  "no-whitespace-before-tags": "on",
+  "no-whitespace-before-first-keyword": "on",
+  "multiple-resource-names-per-file": "on",
+  "required-tags": "off",
+  "max-scenarios-per-file": "off",
+  "max-line-length": "off",
+  "file-name-matches-type": "off",
+  "keyword-spacing": "on",
+  "indentation": "off",
+  "one-space-between-tags": "on"
+}

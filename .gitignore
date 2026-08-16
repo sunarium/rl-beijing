@@ -1,0 +1,22 @@
+beijing_fushengji_original
+.claude
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.venv/
+backend/.venv/
+venv/
+*.egg
+dist/
+build/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
